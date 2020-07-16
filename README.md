@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ggondimrb/)](https://www.linkedin.com/in/ggondimrb/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ggondimrb@gmail.com)](mailto:ggondimrb@gmail.com) 
+
+## I'm a Fullstack Developer at Stefanini, Brazil
+
+🌱 I'm currently learning Frontend Applications with Reactjs and React Native, and Backend Applications with Node APIs.
+
 <!--
 **ggondimrb/ggondimrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
